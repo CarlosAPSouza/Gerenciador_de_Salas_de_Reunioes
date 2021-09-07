@@ -1,0 +1,7 @@
+/home/carlos/IdeaProjects/Gerenciador de Salas de Reunioes/Backend-Java/src/main/java/com/meetingroom/api/exception/GlobalExceptionHandler.java
+/home/carlos/IdeaProjects/Gerenciador de Salas de Reunioes/Backend-Java/src/main/java/com/meetingroom/api/repository/RoomRepository.java
+/home/carlos/IdeaProjects/Gerenciador de Salas de Reunioes/Backend-Java/src/main/java/com/meetingroom/api/MeetingroomApplication.java
+/home/carlos/IdeaProjects/Gerenciador de Salas de Reunioes/Backend-Java/src/main/java/com/meetingroom/api/controller/RoomController.java
+/home/carlos/IdeaProjects/Gerenciador de Salas de Reunioes/Backend-Java/src/main/java/com/meetingroom/api/model/Room.java
+/home/carlos/IdeaProjects/Gerenciador de Salas de Reunioes/Backend-Java/src/main/java/com/meetingroom/api/exception/ErrorDetails.java
+/home/carlos/IdeaProjects/Gerenciador de Salas de Reunioes/Backend-Java/src/main/java/com/meetingroom/api/exception/ResourceNotFoundException.java
