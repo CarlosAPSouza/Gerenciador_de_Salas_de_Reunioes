@@ -1,0 +1,7 @@
+com/meetingroom/api/repository/RoomRepository.class
+com/meetingroom/api/exception/ResourceNotFoundException.class
+com/meetingroom/api/MeetingroomApplication.class
+com/meetingroom/api/model/Room.class
+com/meetingroom/api/controller/RoomController.class
+com/meetingroom/api/exception/ErrorDetails.class
+com/meetingroom/api/exception/GlobalExceptionHandler.class
